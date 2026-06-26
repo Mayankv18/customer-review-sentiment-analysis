@@ -1,4 +1,16 @@
 # customer-review-sentiment-analysis
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: MAYANK VIJAYVARGIYA
+
+**INTERN ID**: CITS256
+
+**DOMAIN**: DATA ANALYTICS
+
+**DURATION**: 6 WEEKS
+
+**MENTOR**: NEELA SANTOSH KUMAR
 # 📊 Sentiment Analysis using Natural Language Processing (NLP)
 
 > An end-to-end Machine Learning project that classifies customer reviews into **Positive** or **Negative** sentiments using Natural Language Processing (NLP) techniques.
